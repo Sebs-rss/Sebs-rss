@@ -1,3 +1,4 @@
+<!---
 - **ENG**: 
 - 👋 Hi, I’m @Sebs-rss , UX/UI Designer 🦄 learning some Fron-End tricks 🌈, Chilean and traveller
 - 👀 I’m interested in: interaction design, accessibility, web design
@@ -6,8 +7,7 @@
 - 📫 How to reach me: my email, LinkedIn page or my 'Contact' me form :)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm also a Yoga instructor and photographer
-
-- **ESP**
+--->
 - 👋 Hola, soy @Sebs-rss, diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End
 - 👀 Me interesa: diseño de interacción, accesibilidad, diseño web
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev y siempre algo relacionado con el Diseño UX/UI
