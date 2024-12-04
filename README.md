@@ -8,7 +8,8 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm also a Yoga instructor and photographer
 --->
-- 👋 Hola, soy @Sebs-rss, diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End
+- 👋 Hola, soy @Sebs-rss, diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, basado en Chile y siempre dispuesto a viajar 🛫
+- 📖 Ingeniero de formación: además tengo experiencia en procesos, QA, Arquitectura de la Información, entre otros
 - 👀 Me interesa: diseño de interacción, accesibilidad, diseño web
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev y siempre algo relacionado con el Diseño UX/UI
 - 💞️ Estoy buscando colaborar en: proyectos de UX/UI y desarrollo front-end
