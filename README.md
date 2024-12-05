@@ -10,7 +10,7 @@
 --->
 - 👋 Hola, soy @Sebs-rss, diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, basado en Chile y siempre dispuesto a viajar 🛫
 - 📖 Ingeniero de formación; además tengo experiencia en procesos, QA, Arquitectura de la Información, entre otros
-- 👀 Me interesa: diseño de interacción, accesibilidad, diseño web
+- 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev y siempre algo relacionado con el Diseño UX/UI
 - 💞️ Estoy buscando colaborar en: proyectos de UX/UI y desarrollo front-end
 - 📫 Cómo ponerse en contacto conmigo: mi correo electrónico, mi página de LinkedIn o mi formulario de contacto :)
