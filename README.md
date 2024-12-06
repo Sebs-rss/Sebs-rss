@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I'm also a Yoga instructor and photographer
 --->
 ## 👋 Hola, soy **Sebastián**
->Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, basado en Chile y siempre dispuesto a viajar 🛫
+> [!NOTE]
+> Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, basado en Chile y siempre dispuesto a viajar 🛫
 - 📖 Ingeniero de formación; además tengo experiencia en procesos, QA, Arquitectura de la Información, entre otros
 - 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev y siempre algo relacionado con el Diseño UX/UI
@@ -30,6 +31,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 <!---
 Sebs-rss/Sebs-rss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
