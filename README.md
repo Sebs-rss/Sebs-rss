@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I'm also a Yoga instructor and photographer
 --->
 ## 👋 Hola, soy **Sebastián**
-> Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, basado en Chile y siempre dispuesto a viajar 🛫
-- 📖 Ingeniero mirado al Diseño de experiencias e interacción; además tengo experiencia en procesos, QA, Arquitectura de la Información y más
+> Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
+- 📖 Ingeniero migrado al Diseño de experiencias y UI; con experiencia en procesos, QA, Arquitectura de la Información y+
 - 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev, Accesibilidad y siempre algo relacionado con el Diseño UX/UI
 - ⚡ Dato curioso: también soy instructora de yoga y fotógrafo
