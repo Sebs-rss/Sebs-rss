@@ -20,6 +20,7 @@
 ### Stack tecnológico
 <details>
 <summary>Diseño UX/UI</summary>
+  
 > Prototipado, espacio de innovación, UX Research, colaboración y gestión de proyectos
 
 ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
