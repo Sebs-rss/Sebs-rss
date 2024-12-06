@@ -20,7 +20,8 @@
 ### Stack tecnológico
 <details>
 <summary>Diseño UX/UI</summary>
-Prototipado, Whiteboard & Brainstotming, UX Research, colaboración y gestión de proyectos. 
+Prototipado, Whiteboard & Brainstotming, UX Research, colaboración y gestión de proyectos.
+
 ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
 ![MIRO](https://img.shields.io/badge/miro-9C55F7?style=for-the-badge&logo=miro&logoColor=white)
 ![MAZE](https://img.shields.io/badge/maze-9C55F7?style=for-the-badge&logo=maze&logoColor=white)
