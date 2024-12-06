@@ -16,41 +16,27 @@
 - 💞️ Estoy buscando colaborar en: proyectos de UX/UI y desarrollo front-end
 - 📫 Cómo ponerse en contacto conmigo: mi correo electrónico, mi página de LinkedIn o mi formulario de contacto :)
 - ⚡ Dato curioso: también soy instructora de yoga y fotógrafo
-
-<details>
-
-<summary>Diseño UX/UI</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
-<details>
-
-<summary>Front-End</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
-</details>
-
+  
 ### Stack tecnológico
-![CSS3](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
+<details>
+<summary>Diseño UX/UI</summary>
+Prototipado, Whiteboard & Brainstotming, UX Research, colaboración y gestión de proyectos. 
+![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
+![MIRO](https://img.shields.io/badge/miro-9C55F7?style=for-the-badge&logo=miro&logoColor=white)
+![MAZE](https://img.shields.io/badge/maze-9C55F7?style=for-the-badge&logo=maze&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+
+<!--- Bloque de código
+```ruby
+   puts "Hello World"
+```
+--->
+</details>
+
+<details>
+<summary>Front-End dev</summary> 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -62,7 +48,8 @@ You can add an image or a code block, too.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+</details>
 
 <!---
 Sebs-rss/Sebs-rss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
