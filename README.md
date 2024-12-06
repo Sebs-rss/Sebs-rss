@@ -17,6 +17,22 @@
 - 📫 Cómo ponerse en contacto conmigo: mi correo electrónico, mi página de LinkedIn o mi formulario de contacto :)
 - ⚡ Dato curioso: también soy instructora de yoga y fotógrafo
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 ### Stack tecnológico
 ![CSS3](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
