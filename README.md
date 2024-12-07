@@ -2,7 +2,7 @@
 - **ENG**: 
 - 👋 Hi, I’m @Sebs-rss , UX/UI Designer 🦄 learning some Fron-End tricks 🌈, Chilean and traveller
 - 👀 I’m interested in: interaction design, accessibility, web design
-- 🌱 I’m currently learning JavaScript and Vue.js framwework in Front-End dev and always something related to UX/UI Design
+- 🌱 I’m currently learning JavaScript and Vue.js framework in Front-End dev and always something related to UX/UI Design
 - 💞️ I’m looking to collaborate on: UX/UI and Front-End dev. projects
 - 📫 How to reach me: my email, LinkedIn page or my 'Contact' me form :)
 - 😄 Pronouns: He/him
