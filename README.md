@@ -12,7 +12,7 @@
 > Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
 - 📖 Ingeniero migrado al Diseño de experiencias y UI: procesos, QA, Arquitectura de la Información y+
 - 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
-- 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framwework en Front-End dev y Accesibilidad
+- 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framework en Front-End dev y Accesibilidad
 - ⚡ Dato curioso: también soy instructora de yoga y fotógrafo
   
 ### Stack tecnológico
@@ -26,6 +26,7 @@
 ![WHIMSICAL](https://img.shields.io/badge/whimsical-6E35C7?style=for-the-badge&logo=whimsical&logoColor=white)
 ![MAZE](https://img.shields.io/badge/maze-0568FD?style=for-the-badge&logo=maze&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Lightroom](https://img.shields.io/badge/lightroom-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
 <!--- Bloque de código
