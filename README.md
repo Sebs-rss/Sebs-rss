@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2ejE0NnF5YXp5cTc4NGQ5MW90OWw2YWlteDdveWR1N3Bvd3piaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" width="400px">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2ejE0NnF5YXp5cTc4NGQ5MW90OWw2YWlteDdveWR1N3Bvd3piaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" width="400px", height="200px">
 </div>
 
 ## 👋 Hola, soy **Sebastián**
