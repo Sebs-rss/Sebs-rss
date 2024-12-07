@@ -1,8 +1,8 @@
 <div id="header" align="center">
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" max-width="400px">
-   > Giphy
   <!--  ![Fun GIF](https://your-uploaded-cropped-gif-link.gif -->
 </div>
+ > Giphy
 
 ## 👋 Hola, soy **Sebastián**
 > Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
