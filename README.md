@@ -2,9 +2,9 @@
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" height="200px" alt="un diseñador UX y un desarrollador front-end lado a lado moviendo sus ojos">
 
 <!-- redes sociales -->
-   <div id="badges" align="left">
+   <div id="badges">
       <a href="https://www.linkedin.com/in/sebsanchezcl/">
-         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"/>
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
       </a>
      <!--
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
