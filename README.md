@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" max-width="350px">
+   <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" max-height="250px">
   <!--  ![Fun GIF](https://your-uploaded-cropped-gif-link.gif -->
 </div>
 
