@@ -1,13 +1,7 @@
-<!---
-- **ENG**: 
-- 👋 Hi, I’m @Sebs-rss , UX/UI Designer 🦄 learning some Fron-End tricks 🌈, Chilean and traveller
-- 👀 I’m interested in: interaction design, accessibility, web design
-- 🌱 I’m currently learning JavaScript and Vue.js framework in Front-End dev and always something related to UX/UI Design
-- 💞️ I’m looking to collaborate on: UX/UI and Front-End dev. projects
-- 📫 How to reach me: my email, LinkedIn page or my 'Contact' me form :)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm also a Yoga instructor and photographer
---->
+<div alignment="center">
+  <iframe src="https://giphy.com/embed/lXHwJv89PvdN200Anr" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-tech-designer-developer-lXHwJv89PvdN200Anr">via GIPHY</a></p>
+</div>
+
 ## 👋 Hola, soy **Sebastián**
 > Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
 - 📖 Ingeniero migrado al Diseño de experiencias y UI: procesos, QA, Arquitectura de la Información y+
