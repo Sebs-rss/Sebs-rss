@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   
+   <img src="./assets/img/banner_gif/bannerMix.gif">
 </div>
 
 ## 👋 Hola, soy **Sebastián**
