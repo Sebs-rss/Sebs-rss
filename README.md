@@ -1,4 +1,4 @@
-<div id="header" align="center" color="white">
+<div id="header" align="center">
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" height="200px" alt="un diseñador UX y un desarrollador front-end lado a lado moviendo sus ojos">
 
 <!-- redes sociales -->
