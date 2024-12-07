@@ -26,7 +26,7 @@
 ![WHIMSICAL](https://img.shields.io/badge/whimsical-6E35C7?style=for-the-badge&logo=whimsical&logoColor=white)
 ![MAZE](https://img.shields.io/badge/maze-0568FD?style=for-the-badge&logo=maze&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=lightroom&logoColor=31A8FF)
+![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=lightroom&logoColor=#31A8FF)
 
 
 <!--- Bloque de código
