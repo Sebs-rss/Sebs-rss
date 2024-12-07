@@ -1,6 +1,6 @@
 <div id="header" align="center">
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" height="250px">
-   <p color="yellow">Gyphy</p> 
+   <p color="yellow" align="right">Gyphy</p> 
   <!--  ![Fun GIF](https://your-uploaded-cropped-gif-link.gif -->
 </div>
 
