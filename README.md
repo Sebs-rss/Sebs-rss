@@ -4,7 +4,7 @@
 <!-- redes sociales -->
    <div id="badges" align="left">
       <a href="https://www.linkedin.com/in/sebsanchezcl/">
-         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"/>
       </a>
      <!--
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
