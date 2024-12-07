@@ -1,7 +1,17 @@
 <div id="header" align="center">
+   <a href="https://www.linkedin.com/in/sebsanchezcl/"></a>
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" height="200px">
-   <p color="yellow" align="center", height="8px">Giphy</p> 
-  <!--  ![Fun GIF](https://your-uploaded-cropped-gif-link.gif -->
+   <p color="yellow" align="center", height="8px">Giphy</p>
+
+<!-- redes sociales -->
+   <div id="badges">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <!--
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      -->
+   </div>
+
 </div>
 
 ## 👋 Hola, soy **Sebastián**
