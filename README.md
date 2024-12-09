@@ -14,7 +14,7 @@
 
 </div>
 
-## 👋 Hola, soy **Sebastián**
+# 👋 Hola, soy **Sebastián**
 ### diseño, codeo y coordino
 
 > Diseñador UX/UI 🦄 aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
