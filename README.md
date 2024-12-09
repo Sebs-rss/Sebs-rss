@@ -31,7 +31,7 @@
 ![MIRO](https://img.shields.io/badge/miro-FFDD33?style=for-the-badge&logo=miro&logoColor=black)
 ![WHIMSICAL](https://img.shields.io/badge/whimsical-6E35C7?style=for-the-badge&logo=whimsical&logoColor=white)
 ![MAZE](https://img.shields.io/badge/maze-0568FD?style=for-the-badge&logo=maze&logoColor=white)
-![OPTIMAL WORKSHOP](https://img.shields.io/badge/optimalworkshop-0568FD?style=for-the-badge&logo=optimalworkshop&logoColor=white)
+![OPTIMAL WORKSHOP](https://img.shields.io/badge/optimalworkshop-000000?style=for-the-badge&logo=optimalworkshop&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 
