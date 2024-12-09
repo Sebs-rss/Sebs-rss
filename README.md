@@ -14,6 +14,7 @@
 
 </div>
 
+### diseño, codeo y coordino
 ## 👋 Hola, soy **Sebastián**
 > Diseñador UX/UI 🦄 aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
 - 📖 Ingeniero migrado al Diseño de experiencias y UI: procesos, QA, Arquitectura de la Información y+
