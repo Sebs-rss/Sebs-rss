@@ -15,7 +15,7 @@
 </div>
 
 ## 👋 Hola, soy **Sebastián**
-> Diseñador 🦄 de UX/UI aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
+> Diseñador UX/UI 🦄 aprendiendo algunos trucos de 🌈 Fron-End, de Chile para el mundo 🛫
 - 📖 Ingeniero migrado al Diseño de experiencias y UI: procesos, QA, Arquitectura de la Información y+
 - 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
 - 🌱 Actualmente estoy aprendiendo JavaScript y Vue.js framework en Front-End dev y Accesibilidad
