@@ -2,7 +2,7 @@
    <img src="https://github.com/Sebs-rss/Sebs-rss/blob/main/assets/imgs/banner_gif/bannerMix.gif" height="200px" alt="un diseñador UX y un desarrollador front-end lado a lado moviendo sus ojos">
 
 <!-- redes sociales -->
-   <div id="badges">
+   <div id="badges" align="right">
       <a href="https://www.linkedin.com/in/sebsanchezcl/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
       </a>
