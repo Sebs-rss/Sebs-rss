@@ -35,7 +35,7 @@
 ![OPTIMAL WORKSHOP](https://img.shields.io/badge/optimalworkshop-000000?style=for-the-badge&logo=optimalworkshop&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
-![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=photoshop&logoColor=#31A8FF)
+![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 
 
 <!--- Bloque de código
