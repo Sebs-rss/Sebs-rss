@@ -63,7 +63,7 @@
 </details>
 
 ### My roadmap de aprendizaje
-[![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66c3ef8234a9226f38236375?variant=dark)](https://roadmap.sh)
 <!---
 Sebs-rss/Sebs-rss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
