@@ -77,6 +77,6 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 >[!TIP]
->[Revisa mi Portfolio](https://sebarsanchez.myportfolio.com/work)
+>[Revisa mi Portfolio de UX/UI y algunas de mis fotos](https://sebarsanchez.myportfolio.com/work)
 
 
