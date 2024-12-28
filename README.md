@@ -39,7 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-788AFE?style=for-the-badge&logo=vite&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-788AFE?style=for-the-badge&logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-611F69?style=for-the-badge&logo=slack&logoColor=white)
 
 </details>
 <details>
