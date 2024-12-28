@@ -55,6 +55,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
+![Slack](https://img.shields.io/badge/Slack-611F69?style=for-the-badge&logo=slack&logoColor=white)
 
 </details>
 <details>
