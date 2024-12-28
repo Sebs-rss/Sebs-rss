@@ -39,7 +39,6 @@
 ![Vite](https://img.shields.io/badge/Vite-788AFE?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
-
 <details>
 <summary>Diseño UX/UI</summary>
   
@@ -54,6 +53,7 @@
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 
+<summary>Mi experiencia</summary>
 </details>
 
 <!--- Bloque de código
@@ -61,11 +61,12 @@
    puts "Hello World"
 ```
 --->
-</details>
-
-### My roadmap de aprendizaje
+<details>
+<summary>My roadmap de aprendizaje</summary>
 [![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark&roadmaps=ux-design%2Cfrontend%2Cjavascript%2Cvue)](https://roadmap.sh)
 <!---
 Sebs-rss/Sebs-rss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</details>
+[![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark&roadmaps=ux-design%2Cfrontend%2Cjavascript%2Cvue)](https://roadmap.sh)
