@@ -56,6 +56,7 @@
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Slack](https://img.shields.io/badge/Slack-611F69?style=for-the-badge&logo=slack&logoColor=white)
+![NOTION](https://img.shields.io/badge/notiopn-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </details>
 <details>
