@@ -15,7 +15,7 @@
 </div>
 
 # 👋 Hola, soy **Sebastián**
-#### **Diseñador UX/UI** 🦄 con tintes de **Front-End** 🌈. De Chile para el mundo en español e inglés 🛫
+#### **Diseñador UX/UI** 🦄 con tintes de **Front-End** 🌈. De Chile para el mundo en español e inglés 🛫.
 > Diseño, codeo, comunico, coordino y gestiono Stakeholders y Clientes eficazmente
 - 📖 De Ingeniero al Diseño de experiencias y UI: procesos, proyectos, QA, Arquitectura de Información y+
 - 👀 Me interesa: diseño de interacción, accesibilidad digital y estar al tanto de nuevas formas de trabajo
