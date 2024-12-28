@@ -46,6 +46,7 @@
 > Prototipado, espacio de innovación, UX Research, colaboración y gestión de proyectos, Stakeholders y Clientes
 
 <details>
+   
 <summary>Las herramientas que más me gustan</summary> 
 ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
 ![MIRO](https://img.shields.io/badge/miro-FFDD33?style=for-the-badge&logo=miro&logoColor=black)
@@ -55,6 +56,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
+
 <details>
 
 
