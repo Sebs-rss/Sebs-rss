@@ -25,9 +25,11 @@
 ### Stack tecnológico
 
 <details>
-<summary>Front-End dev</summary> 
+<summary>Front-End Dev.</summary> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+>Desarrollo y reviso código accesible (QA visual), todo muy bien documentado 👌🏻
+
+![ HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -42,7 +44,7 @@
 <details>
 <summary>Diseño UX/UI</summary>
   
-> Prototipado, espacio de innovación, UX Research, colaboración y gestión de proyectos, Stakeholders y Clientes
+> Prototipado, espacio de innovación, UX Research, colaboración y gestión de proyectos
 
 ![FIGMA](https://img.shields.io/badge/figma-9C55F7?style=for-the-badge&logo=figma&logoColor=white)
 ![MIRO](https://img.shields.io/badge/miro-FFDD33?style=for-the-badge&logo=miro&logoColor=black)
@@ -53,20 +55,26 @@
 ![Lightroom](https://img.shields.io/badge/lightroom-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=#31A8FF)
 
-<summary>Mi experiencia</summary>
 </details>
-
+<details>
+<summary>Mi experiencia</summary>
 <!--- Bloque de código
 ```ruby
    puts "Hello World"
 ```
 --->
-<details>
-<summary>My roadmap de aprendizaje</summary>
-[![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark&roadmaps=ux-design%2Cfrontend%2Cjavascript%2Cvue)](https://roadmap.sh)
+
+> Roadmap de aprendizaje
+
 <!---
 Sebs-rss/Sebs-rss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark)](https://roadmap.sh)
+
 </details>
-[![roadmap.sh](https://roadmap.sh/card/wide/66c3ef8234a9226f38236375?variant=dark&roadmaps=ux-design%2Cfrontend%2Cjavascript%2Cvue)](https://roadmap.sh)
+
+>[!TIP]
+>[Revisa mi Portfolio](https://sebarsanchez.myportfolio.com/work)
+
+
